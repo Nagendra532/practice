@@ -13,3 +13,5 @@ SELECT date,item_name,price,item_type from table_1,table_2 where table_1.item_na
 There are  many models in ml to identify anomalies in mobile technology data,I suggest outlier detection model, 
 as it is common approach for identifying anomolies for unusual pattern in datset.
 and also several models like isolation forest model etc.
+
+hi hi hi
